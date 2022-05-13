@@ -1,0 +1,218 @@
+Rank,Country,Name,Sport,Gender,Results
+1,JPN,Kohei Uchimura,Gymnastic Artistic,Male,92
+2,UKR,Oleg Verniaiev,Gymnastic Artistic,Male,92
+3,GBR,Max Whitlock,Gymnastic Artistic,Male,90
+4,RUS,David Belyavskiy,Gymnastic Artistic,Male,90
+5,CHN,Chaopan Lin,Gymnastic Artistic,Male,90
+6,CHN,Shudi Deng,Gymnastic Artistic,Male,89
+7,USA,Sam Mikulak,Gymnastic Artistic,Male,89
+8,GBR,Nile Wilson,Gymnastic Artistic,Male,89
+9,BRA,Sergio Sasaki,Gymnastic Artistic,Male,89
+10,COL,Jossimar Orlando,Gymnastic Artistic,Male,88
+11,JPN,Ryohei Kato,Gymnastic Artistic,Male,88
+12,SUI,Eddy Yusof,Gymnastic Artistic,Male,87
+13,RUS,Nikolai Kuksenkov,Gymnastic Artistic,Male,87
+14,USA,Christopher Brooks,Gymnastic Artistic,Male,87
+15,NED,Bart Deurloo,Gymnastic Artistic,Male,87
+16,SUI,Pablo Braegger,Gymnastic Artistic,Male,87
+17,BRA,Arthur Mariano,Gymnastic Artistic,Male,87
+18,BLR,Andrey Likhovitskiy,Gymnastic Artistic,Male,86
+19,GER,Marcel Nguyen,Gymnastic Artistic,Male,86
+20,GER,Andreas Bret,Gymnastic Artistic,Male,84
+21,FRA,Axel Augis,Gymnastic Artistic,Male,82
+22,AZE,Oleg Stepko,Gymnastic Artistic,Male,79
+1,USA,Simone Biles,Gymnastic Artistic,Female,62
+2,USA,Alexandra Raisman,Gymnastic Artistic,Female,60
+3,RUS,Aliya Mustafina,Gymnastic Artistic,Female,58
+4,CHN,Chunsong Shang,Gymnastic Artistic,Female,58
+5,CAN,Elsabeth Black,Gymnastic Artistic,Female,58
+6,CHN,Yan Wang,Gymnastic Artistic,Female,59
+7,VEN,Jessica Briz,Gymnastic Artistic,Female,57
+8,JPN,Asuka Teremoto,Gymnastic Artistic,Female,57
+9,NED,Eythora Thorsdottir,Gymnastic Artistic,Female,57
+10,SUI,Guilia Steingruber,Gymnastic Artistic,Female,57
+11,BRA,Rebeca Andrade ,Gymnastic Artistic,Female,56
+12,ITA,Carlotta Ferlito,Gymnastic Artistic,Female,56
+13,GBR,Elissa Downie,Gymnastic Artistic,Female,56
+14,JPN,Mai Murakami,Gymnastic Artistic,Female,56
+15,FRA,Marina Brevet,Gymnastic Artistic,Female,56
+16,ITA,Vanessa Ferrari,Gymnastic Artistic,Female,56
+17,GER,Elisabeth Seitz,Gymnastic Artistic,Female,56
+18,CAN,Isablea Onyshko,Gymnastic Artistic,Female,56
+19,BEL,Nina Derwael,Gymnastic Artistic,Female,56
+20,NED,Lieke Wevers,Gymnastic Artistic,Female,55
+21,FRA,Louise Vanhille,Gymnastic Artistic,Female,54
+22,RUS,Seda Turkhal,Gymnastic Artistic,Female,54
+23,GER,Sophie Scheder,Gymnastic Artistic,Female,53
+1,FRA,Teddy Rinner,Judo Heavyweight,Male,
+2,JPN,Hisa Haraswaa,Judo Heavyweight,Male,
+3,BRA,Rafael Silva,Judo Heavyweight,Male,
+3,ISR,Or Sasson,Judo Heavyweight,Male,
+5,UZB,Abdullo Tangriev,Judo Heavyweight,Male,
+5,CUB,Alex Garcia,Judo Heavyweight,Male,
+7,NED,Roy Meye,Judo Heavyweight,Male,
+7,KGZ,Ury Krakovetsky,Judo Heavyweight,Male,
+9,ALG,Mohammad Amine,Judo Heavyweight,Male,
+9,RUS,Renat Saidov,Judo Heavyweight,Male,
+9,KOR,Sungmin Kim,Judo Heavyweight,Male,
+9,POL,Maciej Sarnacki,Judo Heavyweight,Male,
+9,AZE,Ushangi Kokaur,Judo Heavyweight,Male,
+9,HUN,Barna Bor,Judo Heavyweight,Male,
+9,UKR,Iakiv Khammo,Judo Heavyweight,Male,
+9,ROU,Daniel Natea,Judo Heavyweight,Male,
+17,MGL,Tem Battulga,Judo Heavyweight,Male,
+17,HON,Ramon Pileta,Judo Heavyweight,Male,
+17,AUT,Daniel Allerstorfer,Judo Heavyweight,Male,
+17,CGO,Deo Garcia,Judo Heavyweight,Male,
+17,ECU,Freddy Figueroa,Judo Heavyweight,Male,
+17,EGY,Islam Shehaby,Judo Heavyweight,Male,
+17,ISL,Thormodur Jonsson,Judo Heavyweight,Male,
+17,GEO,Adam Okruashibli,Judo Heavyweight,Male,
+17,LAT,Arturs Niki,Judo Heavyweight,Male,
+17,TUN,Faciel Jaballah,Judo Heavyweight,Male,
+17,TJK,Mukhamadmurod Abdur,Judo Heavyweight,Male,
+17,BUR,Rachid Sidibe,Judo Heavyweight,Male,
+17,GER,Andre Breitbarth,Judo Heavyweight,Male,
+17,THA,Kunathip Yea-on,Judo Heavyweight,Male,
+17,SAM,Derek Sua,Judo Heavyweight,Male,
+1,FRA,Emilie Andeol,Judo Heavyweight,Female,
+2,CUB,Idalys Ortiz,Judo Heavyweight,Female,
+3,JPN,Kanae Yamabe,Judo Heavyweight,Female,
+3,CHN,Song Yu,Judo Heavyweight,Female,
+5,TUR,Kayra Sayit,Judo Heavyweight,Female,
+5,KOR,Minjeong Kim,Judo Heavyweight,Female,
+7,TUN,Nihel Cheikh,Judo Heavyweight,Female,
+7,NED,Tessie Savelkouls,Judo Heavyweight,Female,
+9,ALG,Sonia Asselah,Judo Heavyweight,Female,
+9,PUR,Melissa Mojica,Judo Heavyweight,Female,
+9,MEX,Vanessa Zambotti,Judo Heavyweight,Female,
+9,BIH,Larisa Ceric,Judo Heavyweight,Female,
+9,BUS,Ksenia Chib,Judo Heavyweight,Female,
+9,BRA,Maria Suelen,Judo Heavyweight,Female,
+9,LTU,Santa Pakenyte,Judo Heavyweight,Female,
+9,UKR,Svitlana Iaromka,Judo Heavyweight,Female,
+17,GER,Jasmin Kuelbs,Judo Heavyweight,Female,
+1,USA,Michael Phelps,Swimming 200M,Male,1.54
+2,JPN,Kosuke Hagino,Swimming 200M,Male,1.56
+3,CHN,Shun Wang,Swimming 200M,Male,1.57
+4,JPN,Hiromasa Fuji,Swimming 200M,Male,1.57
+5,USA,Ryan Lochte,Swimming 200M,Male,1.57
+6,GER,Philip Heintz,Swimming 200M,Male,1.57
+7,BRA,Thiago Pereira,Swimming 200M,Male,1.58
+8,GBR,Dan Wallace,Swimming 200M,Male,1.58
+9,BRA,Henrique Rodrigues,Swimming 200M,Male,
+10,GBR,Ieuan Lloyd,Swimming 200M,Male,
+11,GRE,Andreas vazaios,Swimming 200M,Male,
+12,POR,Alexis Santos,Swimming 200M,Male,
+13,SUI,Jeremy Desplan,Swimming 200M,Male,
+14,NZL,Bradlee Ashby,Swimming 200M,Male,
+15,ESP,Eduardo Sola,Swimming 200M,Male,
+16,SWE,Simon Sjodin,Swimming 200M,Male,
+17,ISR,Gal Nevo,Swimming 200M,Male,
+18,RUS,Semen Makovich,Swimming 200M,Male,
+19,POR,Diago Carvalho,Swimming 200M,Male,
+20,AUS,Tarvis Mahoney,Swimming 200M,Male,
+21,LUX,Raphael Stacchiotti,Swimming 200M,Male,
+22,CHN,Yixuan Hu,Swimming 200M,Male,
+23,BEL,Emmanual Van,Swimming 200M,Male,
+24,LAT,Uvis Kalnins,Swimming 200M,Male,
+25,EGY,Mohamed Hussein,Swimming 200M,Male,
+26,MKD,Marko Blaz,Swimming 200M,Male,
+27,TUN,Ahmed Mathlouthi,Swimming 200M,Male,
+1,GBR,Andy Murray,Tennis,Male,
+2,ARG,Juan Martin Del,Tennis,Male,
+3,JPN,Kei Nishikori,Tennis,Male,
+4,ESP,Rafael Nadal,Tennis,Male,
+5,ESP,Roberto Bautista,Tennis,Male,
+5,BRA,Thomaz Bellucci,Tennis,Male,
+5,FRA,Gale Monfils,Tennis,Male,
+5,USA,Steve Johnson,Tennis,Male,
+9,JPN,Taro Daniel,Tennis,Male,
+9,LUX,Gilles Muller,Tennis,Male,
+9,FRA,Gilles Simon ,Tennis,Male,
+9,BEL,Davis Goffin,Tennis,Male,
+9,CRO,Marin Cilic,Tennis,Male,
+9,SVK,Andrej Martin ,Tennis,Male,
+9,RUS,Evgeny Donskoy,Tennis,Male,
+9,ITA,Fabio Fognini,Tennis,Male,
+17,POR,Joao Sousa,Tennis,Male,
+17,GBR,Kyle Edmund,Tennis,Male,
+17,ITA,Paolo Lorenzi,Tennis,Male,
+1,PUR,Monica Puig,Tennis,Female,
+2,GER,Angelique Kerber,Tennis,Female,
+3,CZE,Petra Kvitova,Tennis,Female,
+4,USA,Madison Keys,Tennis,Female,
+5,UKR,Elina Svitolina,Tennis,Female,
+5,GER,Laura Siegemund,Tennis,Female,
+5,RUS,Daria Kasatkina,Tennis,Female,
+5,GBR,Johanna Konta,Tennis,Female,
+9,USA,Serena Williams,Tennis,Female,
+9,RUS,Ekaterina Makarova,Tennis,Female,
+9,ESP,Garbine Muguruz,Tennis,Female,
+9,BEL,Kiresten Flipkens,Tennis,Female,
+9,ESP,Carla Suarez,Tennis,Female,
+9,ITA,Sara Errani,Tennis,Female,
+9,RUS,Svetlana Kuznet,Tennis,Female,
+9,AUS,Samantha Stosur,Tennis,Female,
+17,FRA,Alize Cornet,Tennis,Female,
+17,GBR,Heather Watson,Tennis,Female,
+17,DEN,Caroline Wozniacki,Tennis,Female,
+17,SVK,Anna Karolina,Tennis,Female,
+17,JPN,Nao Hibino,Tennis,Female,
+1,ESP,Mireia Belmonte,Swimming 200M,Female,2.04
+2,AUS,Madeline Groves,Swimming 200M,Female,2.04
+3,JPN,Natsumi Hoshi,Swimming 200M,Female,2.05
+4,USA,Cammile Adams,Swimming 200M,Female,2.05
+5,CHN,Yilin Zhou,Swimming 200M,Female,2.07
+6,CHNA,Yufei Zhang,Swimming 200M,Female,2.07
+7,USA,Hali Flickinger,Swimming 200M,Female,2.07
+8,AUS,Brianna Throssell,Swimming 200M,Female,2.07
+9,JPN,Suzuka Haseg,Swimming 200M,Female,
+10,HUN,Lilian Szilagyi,Swimming 200M,Female,
+11,GER,Franziska Hentke,Swimming 200M,Female,
+12,SUI,Martina Ven,Swimming 200M,Female,
+13,KOR,Sehyeon An,Swimming 200M,Female,
+14,ITA,Alessia Polieri,Swimming 200M,Female,
+15,SLO,Anja Lkinar,Swimming 200M,Female,
+16,CAN,Audrey Lacro,Swimming 200M,Female,
+17,ITA,Setfania Pirozzi,Swimming 200M,Female,
+18,FRA,Lara Graneon,Swimming 200M,Female,
+19,GBR,Aimee Will,Swimming 200M,Female,
+20,ESP,Judit Lgnacio,Swimming 200M,Female,
+21,KOR,Jin Park,Swimming 200M,Female,
+22,TUR,Nida Ustundag,Swimming 200M,Female,
+23,VEN,Andreina Pinto,Swimming 200M,Female,
+24,BRA,Joanna Marangoa,Swimming 200M,Female,
+25,NZL,Helena gasson,Swimming 200M,Female,
+26,ARG,Virginia Bardach,Swimming 200M,Female,
+1,CHN,Yanmei Ciang,Weightlifting 69KG,Female,261
+2,KAZ,Zhazira Zhapparkul,Weightlifting 69KG,Female,259
+3,EGY,Sara Ahmen,Weightlifting 69KG,Female,255
+4,COL,Ledy Yessenia,Weightlifting 69KG,Female,253
+5,ARM,Nazik Avdalyn,Weightlifting 69KG,Female,242
+6,BLR,Darya Pachabut,Weightlifting 69KG,Female,237
+7,ECU,Neisi Patricia,Weightlifting 69KG,Female,237
+8,MGL,Ankhteseg Munkhanstan,Weightlifting 69KG,Female,237
+9,CAN,Marie Nadeau,Weightlifting 69KG,Female,228
+10,GBR,Rebekah Tiler,Weightlifting 69KG,Female,227
+11,FIJ,Apolionia Vaivai ,Weightlifting 69KG,Female,201
+12,TUR,Duygi Aynaci,Weightlifting 69KG,Female,200
+13,TKM,Gulnabat,Weightlifting 69KG,Female,195
+14,CMR,Arcangeline Foudji,Weightlifting 69KG,Female,189
+1,CHN,Zhiyong Shi,Weightlifting 69KG,Male,352
+2,TUR,Daniyar Ismayilov,Weightlifting 69KG,Male,351
+3,COL,Luis Javier,Weightlifting 69KG,Male,338
+4,MEX,Bredni Roque,Weightlifting 69KG,Male,326
+5,ALB,Briken Calja,Weightlifting 69KG,Male,326
+6,MDA,Serghei Cechir,Weightlifting 69KG,Male,322
+7,FRA,Bernardin Ledoux,Weightlifting 69KG,Male,320
+8,KOR,Jeongsik Won,Weightlifting 69KG,Male,320
+9,INA,Triyatno,Weightlifting 69KG,Male,317
+10,ESP,David Lopez,Weightlifting 69KG,Male,317
+11,THA,Tairat Bunsuk,Weightlifting 69KG,Male,316
+12,MAS,Hafifi Bin,Weightlifting 69KG,Male,316
+13,PRK,Yong Gwang,Weightlifting 69KG,Male,313
+14,UZB,Doston Yokubov,Weightlifting 69KG,Male,313
+15,COL,Edwin Roa,Weightlifting 69KG,Male,310
+16,KSA,Mohsen Al,Weightlifting 69KG,Male,297
+17,TPE,Chein Pan,Weightlifting 69KG,Male,296
